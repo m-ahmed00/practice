@@ -1,0 +1,23 @@
+body{
+    background-color: #FFE4E1;
+}
+img{
+    border-radius: 20px;
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+}
+.aa{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: larger;
+}
+.ee{
+    font-size: larger;
+}
+#tt{
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#ww{
+    margin: 200px;
+}
